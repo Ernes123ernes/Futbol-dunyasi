@@ -1,0 +1,6 @@
+{
+  "name": "Futbol Dünyası",
+  "description": "Futbol maç özetleri, güncel haberler, puan durumu, detaylı maç istatistikleri, taraftar yorumları ve takım analizleri sunan kapsamlı futbol platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
